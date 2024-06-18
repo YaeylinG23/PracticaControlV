@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.card {
+    width: 40rem;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
